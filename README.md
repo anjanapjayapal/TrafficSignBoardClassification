@@ -1,4 +1,4 @@
-# Indian Traffic Sign Classification
+# Indian Traffic Sign Board Classification
 
 This project involves the classification of Indian traffic signs using a Convolutional Neural Network (CNN) built with TensorFlow and Keras. The dataset includes images of various traffic signs, and the model is trained to recognize and predict their classes.
 
