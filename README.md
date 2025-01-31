@@ -2,18 +2,6 @@
 
 This project involves the classification of Indian traffic signs using a Convolutional Neural Network (CNN) built with TensorFlow and Keras. The dataset includes images of various traffic signs, and the model is trained to recognize and predict their classes.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Project Workflow](#project-workflow)
-- [Model Architecture](#model-architecture)
-- [Setup Instructions](#setup-instructions)
-- [Results](#results)
-- [Visualizations](#visualizations)
-- [Future Work](#future-work)
-- [Acknowledgments](#acknowledgments)
-
 ## Introduction
 
 Traffic sign classification is a critical task for autonomous vehicles and traffic management systems. This project demonstrates the development of a deep learning model to classify traffic signs into their respective categories using labeled images from the **Indian Traffic Sign Dataset**.
@@ -71,7 +59,3 @@ The CNN is structured as follows:
 - Python 3.7 or above
 - Libraries: TensorFlow, Keras, NumPy, Pandas, OpenCV, Pillow, Matplotlib
 
-### Steps to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/traffic-sign-classification.git
